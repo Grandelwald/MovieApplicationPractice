@@ -19,7 +19,7 @@ import com.example.movieapplicationpractice.databinding.ActivityMainBinding
 //
 //]
 
-var dummyData : ArrayList<Movie> = arrayListOf(
+var Movies : ArrayList<Movie> = arrayListOf(
     Movie("https://movie-phinf.pstatic.net/20220727_209/1658912961873lVd2W_JPEG/movie_image.jpg?type=f125","한산 : 용의 출현"),
     Movie("https://movie-phinf.pstatic.net/20220720_283/1658284839003UzxoT_JPEG/movie_image.jpg?type=f125","미니언즈 2"),
     Movie("https://movie-phinf.pstatic.net/20220509_176/1652081912471yhg3N_JPEG/movie_image.jpg?type=m203_290_2","탑건 : 메버릭"),
