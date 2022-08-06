@@ -27,6 +27,8 @@
         app:layout_constraintStart_toStartOf="@id/iv_movie_profile_image"
         app:layout_constraintEnd_toEndOf="@id/iv_movie_profile_image"
         tools:text="영화 제목"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
